@@ -1,3 +1,5 @@
 *.exe
 ./compiler
 /temp.txt
+*temp*
+temp.txt
